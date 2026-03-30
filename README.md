@@ -1,15 +1,14 @@
 # GOG Deals Tracker
 
-Track GOG deals, compare regions, and discover curated DRM-free recommendations with a cleaner experience than the store itself.
+Track GOG deals, compare regions, and discover curated DRM-free recommendations with a cleaner and more useful experience than the store itself.
 
-Live demo: `https://YOUR-DOMAIN/ofertas/`
+Live demo: [Coming soon](https://YOUR-DOMAIN/ofertas/)
 
 ## Support the Project
 
-GOG Deals Tracker want to be an independent project built and maintained over time.  
-If you want to help support hosting, future features, and continued development, you can do it through Patreon.
+GOG Deals Tracker is an independent project built with care over time. If you want to help support hosting, future features, and continued development, you can do it here:
 
-- ❤️ [Patreon](https://www.patreon.com/posts/pase-de-fundador-154064238)
+- ❤️ [Patreon](https://www.patreon.com/cw/InsertMoreCoins)
 - ☕ [Ko-fi](https://ko-fi.com/insertmorecoins)
 
 ## What It Offers
@@ -22,13 +21,11 @@ If you want to help support hosting, future features, and continued development,
 
 ## Why Use It
 
-GOG Deals Tracker is built to make GOG easier to browse and more useful to buy from.
-Instead of only showing a raw list of discounts, it helps surface better opportunities,
-compare visible prices across regions, and highlight games that deserve attention.
+GOG Deals Tracker was created to make browsing GOG easier, clearer, and more rewarding. Instead of only showing a raw list of discounts, it helps surface better opportunities, compare visible prices across regions, and highlight games that are worth your attention.
 
 ## Free Version
 
-The public version is focused on practical value:
+The public version is designed to be genuinely useful:
 
 - Browse current offers
 - Explore the full GOG catalog surface
@@ -50,7 +47,7 @@ See the public roadmap in [docs/roadmap.md](docs/roadmap.md).
 
 ## Screenshots
 
-Add real screenshots in [docs/screenshots](docs/screenshots/README.md) and then embed them here.
+Real screenshots will be added in [docs/screenshots](docs/screenshots/README.md).
 
 Suggested captures:
 
@@ -59,22 +56,9 @@ Suggested captures:
 - Recommended page
 - Good Old Games page
 
-## Support The Project
-
-If you want to help keep the tracker online and fund future improvements, you can support the project through donations.
-
-Support helps with:
-
-- Hosting and storage costs
-- Faster iteration on catalog features
-- Future alerting and wishlist features
-- Expanded public game sheets when infrastructure allows it
-
-Funding links can be configured in [`.github/FUNDING.yml`](.github/FUNDING.yml).
-
 ## Status
 
-- Public free version: planned / live once URL is added
+- Public free version: live once the final URL is added
 - Development: active
 - Premium layer: planned
 
