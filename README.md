@@ -10,6 +10,7 @@ GOG Deals Tracker want to be an independent project built and maintained over ti
 If you want to help support hosting, future features, and continued development, you can do it through Patreon.
 
 [Support the project on Patreon](https://www.patreon.com/posts/pase-de-fundador-154064238)
+[Support on Ko-fi](https://ko-fi.com/insertmorecoins)
 
 
 ## What It Offers
