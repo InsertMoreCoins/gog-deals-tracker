@@ -4,7 +4,7 @@ Track GOG deals, compare regions, and discover curated DRM-free recommendations 
 
 Live demo: `https://YOUR-DOMAIN/ofertas/`
 
-Support the project: `https://YOUR-PATREON-OR-KOFI-LINK`
+Support the project on Patreon: `https://www.patreon.com/posts/pase-de-fundador-154064238`
 
 ## What It Offers
 
