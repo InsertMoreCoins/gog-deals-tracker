@@ -6,6 +6,9 @@ Live demo: `https://YOUR-DOMAIN/ofertas/`
 
 ## Support the Project
 
+GOG Deals Tracker want to be an independent project built and maintained over time.  
+If you want to help support hosting, future features, and continued development, you can do it through Patreon.
+
 [Support the project on Patreon](https://www.patreon.com/posts/pase-de-fundador-154064238)
 
 
