@@ -2,7 +2,7 @@
 
 Track GOG deals, compare regions, and discover curated DRM-free recommendations with a cleaner and more useful experience than the store itself.
 
-Live demo: [Coming soon](https://www.insertmorecoins.es/ofertas/index.html)
+Live demo: [GOG Deals Tracker](https://www.insertmorecoins.es/ofertas/index.html)
 
 ## Support the Project
 
